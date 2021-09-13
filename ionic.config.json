@@ -1,0 +1,7 @@
+{
+  "name": "new-year-countdown",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
